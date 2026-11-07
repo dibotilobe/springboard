@@ -1,0 +1,39 @@
+# Task configuration schema version
+version = "2.0"
+
+# Task metadata (author, difficulty, categorization)
+[metadata]
+author_name = "Etienne Diboti Lobe"
+author_email = "diboti@comcast.net"
+name = "llm-rag-ml"
+category = "machine-learning"
+subcategories = []
+difficulty = "hard"
+codebase_size = "small"
+number_of_milestones = 0
+languages = ["python"]
+tags = ["retrieval", "semantic-search", "embeddings", "multi-hop", "recall-at-k", "open-ended-ml"]
+expert_time_estimate_min = 55
+junior_time_estimate_min = 130
+
+# Verifier: runs the test script to check task completion
+[verifier]
+# 600s to match tests/test_outputs.py's own inner subprocess timeout for
+# re-running the agent's resolve.py during grading (embedding-model load +
+# encoding 36 docs / ~150 query views can be slow on a constrained
+# container) -- a shorter outer timeout here could kill that subprocess
+# before its own 600s limit ever triggers, causing a spurious infra
+# failure unrelated to actual retrieval quality.
+timeout_sec = 600.0
+
+# Agent: limits how long the agent can run when attempting the task
+[agent]
+timeout_sec = 900.0
+
+# Sandbox environment limits
+[environment]
+allow_internet = false
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 4096
+storage_mb = 10240

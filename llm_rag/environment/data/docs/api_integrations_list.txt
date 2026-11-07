@@ -1,0 +1,3 @@
+Available Third-Party Integrations
+
+Built-in integrations include Slack, Google Drive, Dropbox, and Zapier, connectable from Settings, then 'Integrations'. Each integration is authorized separately via OAuth and can be disconnected independently without affecting the others or requiring you to reconnect the rest.

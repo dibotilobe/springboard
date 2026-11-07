@@ -1,0 +1,3 @@
+Transferring Workspace Ownership
+
+Ownership can be transferred to another Admin from Team, then 'Transfer Ownership'. The current owner must confirm via a emailed link, and the new owner must accept before the transfer completes. Billing responsibility moves to the new owner immediately once the transfer is confirmed.

@@ -1,0 +1,3 @@
+Unlocking a Locked Account
+
+After five failed sign-in attempts within fifteen minutes, an account is temporarily locked for your protection. The lock clears automatically after thirty minutes, or you can unlock immediately by verifying your identity through the email link we send when a lockout occurs. Repeated lockouts from unfamiliar locations may require contacting support directly.

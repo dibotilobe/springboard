@@ -1,0 +1,3 @@
+Inviting Team Members
+
+To add someone to your workspace, go to Team, then 'Invite Members', and enter their email address along with a starting role. They'll receive an invitation link valid for seven days. Pending invites can be resent or revoked at any time from the same page before they're accepted.

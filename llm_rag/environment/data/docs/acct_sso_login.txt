@@ -1,0 +1,3 @@
+Signing In With Single Sign-On
+
+If your organization uses single sign-on, you can sign in with your company identity provider instead of a separate password. On the login screen, choose 'Sign in with SSO' and enter your work email domain. You'll be redirected to your company's login page. Contact your workspace administrator if SSO isn't enabled yet for your organization.

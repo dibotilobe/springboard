@@ -1,0 +1,218 @@
+{
+ "eval_000": {
+  "query": "Our workspace has different access levels for admins versus regular editors and viewers who can't touch billing or manage anyone, would a regular team member still be able to make their own API credential?",
+  "suggested_passage_id": "sec_ip_allowlist"
+ },
+ "eval_001": {
+  "query": "I have a ton of records, will it even let me get all of them out at once",
+  "suggested_passage_id": "sync_slow_troubleshoot"
+ },
+ "eval_002": {
+  "query": "Is there still a record of what someone did on the team before they got removed from it?",
+  "suggested_passage_id": "sync_offline_mode"
+ },
+ "eval_003": {
+  "query": "My old card expired, how do I put a new one on file",
+  "suggested_passage_id": "acct_lockout"
+ },
+ "eval_004": {
+  "query": "I've tried signing into my account so many times it won't let me in anymore, what do I do",
+  "suggested_passage_id": "team_role_permissions"
+ },
+ "eval_005": {
+  "query": "I just generated a brand new API credential for a script I'm building today is that thing actually locked down the same way everything else here is",
+  "suggested_passage_id": "acct_2fa_setup"
+ },
+ "eval_006": {
+  "query": "I need it to shut up for a few hours, is there a snooze option",
+  "suggested_passage_id": "notif_mute"
+ },
+ "eval_007": {
+  "query": "I just reset my password because I forgot it since that logs me out of everything else I was signed into and I'm wondering if that explains why the phone app suddenly won't take my login.",
+  "suggested_passage_id": "bill_downgrade_plan"
+ },
+ "eval_008": {
+  "query": "We log in through our company account system, if I send a new coworker an invite will they be able to use that same login right away?",
+  "suggested_passage_id": "acct_lockout"
+ },
+ "eval_009": {
+  "query": "Can this send me a fresh export automatically every week without me asking",
+  "suggested_passage_id": "team_transfer_ownership"
+ },
+ "eval_010": {
+  "query": "Everything is taking forever to update between my devices, any fix",
+  "suggested_passage_id": "bill_invoice_download"
+ },
+ "eval_011": {
+  "query": "Can I switch to something cheaper and when would that actually kick in",
+  "suggested_passage_id": "team_invite_members"
+ },
+ "eval_012": {
+  "query": "I'm leaving the company soon so I'm handing my whole workspace over to a coworker taking my place next week and want to know if the card on file moves with it too.",
+  "suggested_passage_id": "acct_2fa_setup"
+ },
+ "eval_013": {
+  "query": "Can I just log in using my company's usual work account instead of a separate one",
+  "suggested_passage_id": "export_bulk_limits"
+ },
+ "eval_014": {
+  "query": "Haven't updated the app in ages and use it a lot without signal, could that combo cause trouble once I'm back online?",
+  "suggested_passage_id": "sync_conflict_resolution"
+ },
+ "eval_015": {
+  "query": "We just started requiring that extra login security step for everyone on the team, if I send a new coworker an invite would they need to set that up before they can get in the first time?",
+  "suggested_passage_id": "mobile_push_settings"
+ },
+ "eval_016": {
+  "query": "I need this in a spreadsheet I can open in Excel, how do I get that out",
+  "suggested_passage_id": "export_bulk_limits"
+ },
+ "eval_017": {
+  "query": "I made a bunch of edits on my phone earlier today while it had no signal at all in the building and I'm wondering if that's a problem since I also changed the same thing on my laptop around then.",
+  "suggested_passage_id": "notif_email_digest"
+ },
+ "eval_018": {
+  "query": "I need a copy of an old receipt for my accountant, where would that live",
+  "suggested_passage_id": "export_scheduled"
+ },
+ "eval_019": {
+  "query": "Thinking about unplugging one of the third-party integrations we've had connected for ages since we barely use it anymore would that leave any trace in our activity history",
+  "suggested_passage_id": "notif_email_digest"
+ },
+ "eval_020": {
+  "query": "Since I'm about to pay quite a bit more for the bigger plan with way more storage would my API rate limit also go up",
+  "suggested_passage_id": "mobile_version_support"
+ },
+ "eval_021": {
+  "query": "How do I get pop-up alerts on my phone when something happens",
+  "suggested_passage_id": "mobile_push_settings"
+ },
+ "eval_022": {
+  "query": "I need credentials to hook my own script up to this, where do I get one",
+  "suggested_passage_id": "api_key_generation"
+ },
+ "eval_023": {
+  "query": "I'm getting flooded with emails, can I get one summary instead",
+  "suggested_passage_id": "sec_encryption"
+ },
+ "eval_024": {
+  "query": "Can I still see my stuff in the mobile app when I've got no signal, like on the subway",
+  "suggested_passage_id": "bill_upgrade_plan"
+ },
+ "eval_025": {
+  "query": "I have a file from another tool, can I load it in here somehow",
+  "suggested_passage_id": "api_integrations_list"
+ },
+ "eval_026": {
+  "query": "I want all my personal info wiped for good, what's that process called",
+  "suggested_passage_id": "mobile_push_settings"
+ },
+ "eval_027": {
+  "query": "Does this connect to the other tools my team already uses, like Slack",
+  "suggested_passage_id": "export_csv"
+ },
+ "eval_028": {
+  "query": "What's the difference between what an admin and a regular member can actually do here",
+  "suggested_passage_id": "team_remove_member"
+ },
+ "eval_029": {
+  "query": "I've got the digest turned on so I only get one summary email a day instead of getting pinged for every single little thing that happens, would a webhook I set up for one of those events still go off right away?",
+  "suggested_passage_id": "mobile_login_issues"
+ },
+ "eval_030": {
+  "query": "Someone left the company, how do I take away their access to everything",
+  "suggested_passage_id": "acct_lockout"
+ },
+ "eval_031": {
+  "query": "I don't use most of the premium features anymore so I'm switching my whole team down to the cheaper plan starting next billing cycle and want to know if my weekly export still goes out the same as before.",
+  "suggested_passage_id": "team_role_permissions"
+ },
+ "eval_032": {
+  "query": "Everything's been taking forever to update between my devices lately and I honestly can't remember the last time I updated the app on my phone, could that be why it's so slow?",
+  "suggested_passage_id": "sec_ip_allowlist"
+ },
+ "eval_033": {
+  "query": "What's the process for turning on that extra login security code thing",
+  "suggested_passage_id": "api_integrations_list"
+ },
+ "eval_034": {
+  "query": "Is there a way to make sure sign-ins only work from our office network",
+  "suggested_passage_id": "notif_email_digest"
+ },
+ "eval_035": {
+  "query": "I kicked off a huge export earlier that's supposed to email me a link once it's ready since it's too large to download right away would I also get a push alert on my phone when it's done",
+  "suggested_passage_id": "mobile_offline_mode"
+ },
+ "eval_036": {
+  "query": "I want more features, how do I move onto a bigger paid tier",
+  "suggested_passage_id": "bill_upgrade_plan"
+ },
+ "eval_037": {
+  "query": "Can I keep using the app on a plane with no wifi and have it catch up later",
+  "suggested_passage_id": "sync_conflict_resolution"
+ },
+ "eval_038": {
+  "query": "I edited the same thing on my phone and laptop and now there are two versions, now what",
+  "suggested_passage_id": "sync_manual_trigger"
+ },
+ "eval_039": {
+  "query": "Is there a way to force it to sync right now instead of waiting for it to happen on its own",
+  "suggested_passage_id": "mobile_login_issues"
+ },
+ "eval_040": {
+  "query": "I stopped getting any alerts a few days ago even though everything looks fine in my settings and I've already restarted the app twice, could my phone's push settings be set up differently than my computer's?",
+  "suggested_passage_id": "export_bulk_limits"
+ },
+ "eval_041": {
+  "query": "How many calls can my integration make before it gets throttled",
+  "suggested_passage_id": "acct_sso_login"
+ },
+ "eval_042": {
+  "query": "I used to get alerts and now nothing shows up, what happened",
+  "suggested_passage_id": "mobile_version_support"
+ },
+ "eval_043": {
+  "query": "My coworker keeps getting stuck out of their account working from a coffee shop, could our office network rule be doing that?",
+  "suggested_passage_id": "sec_audit_logs"
+ },
+ "eval_044": {
+  "query": "I only want alerts on my computer, not blowing up my phone too",
+  "suggested_passage_id": "team_remove_member"
+ },
+ "eval_045": {
+  "query": "The phone app won't let me sign in even though my password is right",
+  "suggested_passage_id": "sec_audit_logs"
+ },
+ "eval_046": {
+  "query": "I haven't updated the app in a while, is my old version going to stop working",
+  "suggested_passage_id": "api_integrations_list"
+ },
+ "eval_047": {
+  "query": "I want my server to get pinged automatically whenever something changes here",
+  "suggested_passage_id": "sec_gdpr_deletion"
+ },
+ "eval_048": {
+  "query": "Is there a way to see who did what and when across the whole team",
+  "suggested_passage_id": "mobile_login_issues"
+ },
+ "eval_049": {
+  "query": "I can't remember how to get back into my account, what do I do",
+  "suggested_passage_id": "acct_password_reset"
+ },
+ "eval_050": {
+  "query": "Is my information actually protected or could someone snooping see it in plain text",
+  "suggested_passage_id": "notif_push_setup"
+ },
+ "eval_051": {
+  "query": "Before I wipe my whole account for good, can I still grab my old receipts first?",
+  "suggested_passage_id": "acct_sso_login"
+ },
+ "eval_052": {
+  "query": "I'm leaving and need someone else to be in charge of the account, how's that done",
+  "suggested_passage_id": "api_integrations_list"
+ },
+ "eval_053": {
+  "query": "I want to add a coworker to the workspace, how do I send them an invite",
+  "suggested_passage_id": "mobile_version_support"
+ }
+}

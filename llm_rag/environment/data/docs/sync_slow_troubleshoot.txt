@@ -1,0 +1,3 @@
+Troubleshooting Slow Sync
+
+If sync feels slow, first check your network connection speed, since large attachments sync more slowly on limited bandwidth. Next, check the Sync Status panel for a queue backlog -- a large backlog after being offline for a long time can take a while to clear. Restarting the app forces a fresh sync attempt and often resolves temporary slowdowns.

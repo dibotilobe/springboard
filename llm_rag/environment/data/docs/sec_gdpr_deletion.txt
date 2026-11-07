@@ -1,0 +1,3 @@
+Requesting Data Deletion Under GDPR
+
+To request full deletion of your personal data under GDPR, submit a request from Settings, then 'Privacy', then 'Request Deletion'. Deletion completes within 30 days and removes data from active systems and backups, after which it cannot be recovered or restored under any circumstances.

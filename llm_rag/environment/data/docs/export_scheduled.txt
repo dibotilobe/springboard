@@ -1,0 +1,3 @@
+Scheduling Recurring Exports
+
+Recurring exports run automatically on a schedule you set -- daily, weekly, or monthly -- and are delivered to a destination like email or a connected cloud storage folder. Configure this under Settings, then 'Scheduled Exports', then 'New Schedule'. Each run overwrites the previous file at the same destination unless you enable dated filenames.

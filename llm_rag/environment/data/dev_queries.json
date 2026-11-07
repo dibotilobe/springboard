@@ -1,0 +1,398 @@
+{
+ "dev_000": {
+  "query": "If our workspace requires two-factor authentication, does a newly invited team member need to set it up before their first login?",
+  "gold_passage_ids": [
+   "acct_2fa_setup",
+   "team_invite_members"
+  ],
+  "suggested_passage_id": "acct_2fa_setup"
+ },
+ "dev_001": {
+  "query": "If I reset my password and it signs me out of all other sessions, would that also fix my mobile app's login problem?",
+  "gold_passage_ids": [
+   "acct_password_reset",
+   "mobile_login_issues"
+  ],
+  "suggested_passage_id": "acct_password_reset"
+ },
+ "dev_002": {
+  "query": "How do I set up push notifications?",
+  "gold_passage_ids": [
+   "notif_push_setup"
+  ],
+  "suggested_passage_id": "notif_push_setup"
+ },
+ "dev_003": {
+  "query": "If my mobile app is several versions out of date and I've been relying on offline mode, could that cause sync problems once I reconnect?",
+  "gold_passage_ids": [
+   "mobile_version_support",
+   "sync_offline_mode"
+  ],
+  "suggested_passage_id": "mobile_version_support"
+ },
+ "dev_004": {
+  "query": "If I downgrade my subscription plan, will my scheduled recurring export still run afterward?",
+  "gold_passage_ids": [
+   "bill_downgrade_plan",
+   "export_scheduled"
+  ],
+  "suggested_passage_id": "bill_downgrade_plan"
+ },
+ "dev_005": {
+  "query": "What third-party integrations are available?",
+  "gold_passage_ids": [
+   "api_integrations_list"
+  ],
+  "suggested_passage_id": "api_integrations_list"
+ },
+ "dev_006": {
+  "query": "Is an API key I generate protected using the same encryption standard as the rest of my data?",
+  "gold_passage_ids": [
+   "api_key_generation",
+   "sec_encryption"
+  ],
+  "suggested_passage_id": "api_key_generation"
+ },
+ "dev_007": {
+  "query": "How do I sign in with single sign-on?",
+  "gold_passage_ids": [
+   "acct_sso_login"
+  ],
+  "suggested_passage_id": "acct_sso_login"
+ },
+ "dev_008": {
+  "query": "How do I resolve a sync conflict?",
+  "gold_passage_ids": [
+   "sync_conflict_resolution"
+  ],
+  "suggested_passage_id": "sync_conflict_resolution"
+ },
+ "dev_009": {
+  "query": "How do I request data deletion under GDPR?",
+  "gold_passage_ids": [
+   "sec_gdpr_deletion"
+  ],
+  "suggested_passage_id": "sec_gdpr_deletion"
+ },
+ "dev_010": {
+  "query": "When a large CSV export finishes and the download link gets emailed to me, does that also trigger a push notification on my phone?",
+  "gold_passage_ids": [
+   "export_csv",
+   "notif_push_setup"
+  ],
+  "suggested_passage_id": "export_csv"
+ },
+ "dev_011": {
+  "query": "If I disconnect a third-party integration like Slack, would that action show up in the audit log?",
+  "gold_passage_ids": [
+   "api_integrations_list",
+   "sec_audit_logs"
+  ],
+  "suggested_passage_id": "api_integrations_list"
+ },
+ "dev_012": {
+  "query": "How do I restrict access with an IP allowlist?",
+  "gold_passage_ids": [
+   "sec_ip_allowlist"
+  ],
+  "suggested_passage_id": "sec_ip_allowlist"
+ },
+ "dev_013": {
+  "query": "How do I fix mobile login issues?",
+  "gold_passage_ids": [
+   "mobile_login_issues"
+  ],
+  "suggested_passage_id": "mobile_login_issues"
+ },
+ "dev_014": {
+  "query": "How do I set up webhooks?",
+  "gold_passage_ids": [
+   "api_webhook_setup"
+  ],
+  "suggested_passage_id": "api_webhook_setup"
+ },
+ "dev_015": {
+  "query": "Why is sync so slow and how do I troubleshoot it?",
+  "gold_passage_ids": [
+   "sync_slow_troubleshoot"
+  ],
+  "suggested_passage_id": "sync_slow_troubleshoot"
+ },
+ "dev_016": {
+  "query": "If I'm not getting notifications on my phone, could that be because my mobile push settings are configured separately from my desktop ones?",
+  "gold_passage_ids": [
+   "notif_troubleshoot",
+   "mobile_push_settings"
+  ],
+  "suggested_passage_id": "notif_troubleshoot"
+ },
+ "dev_017": {
+  "query": "Since the email digest mutes individual real-time emails for events it summarizes, would a webhook I've set up for the same event still fire immediately?",
+  "gold_passage_ids": [
+   "notif_email_digest",
+   "api_webhook_setup"
+  ],
+  "suggested_passage_id": "notif_email_digest"
+ },
+ "dev_018": {
+  "query": "How do I transfer workspace ownership?",
+  "gold_passage_ids": [
+   "team_transfer_ownership"
+  ],
+  "suggested_passage_id": "team_transfer_ownership"
+ },
+ "dev_019": {
+  "query": "How do I manually trigger a sync?",
+  "gold_passage_ids": [
+   "sync_manual_trigger"
+  ],
+  "suggested_passage_id": "sync_manual_trigger"
+ },
+ "dev_020": {
+  "query": "How do I mute notifications temporarily?",
+  "gold_passage_ids": [
+   "notif_mute"
+  ],
+  "suggested_passage_id": "notif_mute"
+ },
+ "dev_021": {
+  "query": "When workspace ownership is transferred to someone else, does the billing payment method move with it automatically?",
+  "gold_passage_ids": [
+   "team_transfer_ownership",
+   "bill_payment_method"
+  ],
+  "suggested_passage_id": "team_transfer_ownership"
+ },
+ "dev_022": {
+  "query": "How do I generate an API key?",
+  "gold_passage_ids": [
+   "api_key_generation"
+  ],
+  "suggested_passage_id": "api_key_generation"
+ },
+ "dev_023": {
+  "query": "How do I schedule a recurring export?",
+  "gold_passage_ids": [
+   "export_scheduled"
+  ],
+  "suggested_passage_id": "export_scheduled"
+ },
+ "dev_024": {
+  "query": "How does data encryption work here?",
+  "gold_passage_ids": [
+   "sec_encryption"
+  ],
+  "suggested_passage_id": "sec_encryption"
+ },
+ "dev_025": {
+  "query": "Since only Admins have full control including billing and member management, would a non-admin team member be able to generate their own API key?",
+  "gold_passage_ids": [
+   "team_role_permissions",
+   "api_key_generation"
+  ],
+  "suggested_passage_id": "team_role_permissions"
+ },
+ "dev_026": {
+  "query": "Where can I download my past invoices?",
+  "gold_passage_ids": [
+   "bill_invoice_download"
+  ],
+  "suggested_passage_id": "bill_invoice_download"
+ },
+ "dev_027": {
+  "query": "If my sync has been slow and I haven't updated my mobile app in a while, could the outdated version be the actual cause?",
+  "gold_passage_ids": [
+   "sync_slow_troubleshoot",
+   "mobile_version_support"
+  ],
+  "suggested_passage_id": "sync_slow_troubleshoot"
+ },
+ "dev_028": {
+  "query": "How does offline mode work on mobile?",
+  "gold_passage_ids": [
+   "mobile_offline_mode"
+  ],
+  "suggested_passage_id": "mobile_offline_mode"
+ },
+ "dev_029": {
+  "query": "What are the size limits for bulk exports?",
+  "gold_passage_ids": [
+   "export_bulk_limits"
+  ],
+  "suggested_passage_id": "export_bulk_limits"
+ },
+ "dev_030": {
+  "query": "If I request full account deletion under GDPR, will I still be able to download my past invoices afterward?",
+  "gold_passage_ids": [
+   "sec_gdpr_deletion",
+   "bill_invoice_download"
+  ],
+  "suggested_passage_id": "sec_gdpr_deletion"
+ },
+ "dev_031": {
+  "query": "How do I import data from a JSON file?",
+  "gold_passage_ids": [
+   "import_json"
+  ],
+  "suggested_passage_id": "import_json"
+ },
+ "dev_032": {
+  "query": "How do I view audit logs?",
+  "gold_passage_ids": [
+   "sec_audit_logs"
+  ],
+  "suggested_passage_id": "sec_audit_logs"
+ },
+ "dev_033": {
+  "query": "If I edit something on mobile while offline and also edit it on another device, what happens to both versions once mobile reconnects?",
+  "gold_passage_ids": [
+   "mobile_offline_mode",
+   "sync_conflict_resolution"
+  ],
+  "suggested_passage_id": "mobile_offline_mode"
+ },
+ "dev_034": {
+  "query": "How does offline mode work?",
+  "gold_passage_ids": [
+   "sync_offline_mode"
+  ],
+  "suggested_passage_id": "sync_offline_mode"
+ },
+ "dev_035": {
+  "query": "How do I configure the email digest?",
+  "gold_passage_ids": [
+   "notif_email_digest"
+  ],
+  "suggested_passage_id": "notif_email_digest"
+ },
+ "dev_036": {
+  "query": "After I remove a team member, can I still view the audit log of actions they took while active?",
+  "gold_passage_ids": [
+   "team_remove_member",
+   "sec_audit_logs"
+  ],
+  "suggested_passage_id": "team_remove_member"
+ },
+ "dev_037": {
+  "query": "How do I downgrade my subscription plan?",
+  "gold_passage_ids": [
+   "bill_downgrade_plan"
+  ],
+  "suggested_passage_id": "bill_downgrade_plan"
+ },
+ "dev_038": {
+  "query": "How do I remove a team member?",
+  "gold_passage_ids": [
+   "team_remove_member"
+  ],
+  "suggested_passage_id": "team_remove_member"
+ },
+ "dev_039": {
+  "query": "Why is my account locked and how do I unlock it?",
+  "gold_passage_ids": [
+   "acct_lockout"
+  ],
+  "suggested_passage_id": "acct_lockout"
+ },
+ "dev_040": {
+  "query": "Why am I not getting notifications and how do I fix it?",
+  "gold_passage_ids": [
+   "notif_troubleshoot"
+  ],
+  "suggested_passage_id": "notif_troubleshoot"
+ },
+ "dev_041": {
+  "query": "If our company uses single sign-on, will a newly invited team member be able to log in with SSO right away?",
+  "gold_passage_ids": [
+   "acct_sso_login",
+   "team_invite_members"
+  ],
+  "suggested_passage_id": "acct_sso_login"
+ },
+ "dev_042": {
+  "query": "How do I reset my password?",
+  "gold_passage_ids": [
+   "acct_password_reset"
+  ],
+  "suggested_passage_id": "acct_password_reset"
+ },
+ "dev_043": {
+  "query": "What mobile app versions are supported?",
+  "gold_passage_ids": [
+   "mobile_version_support"
+  ],
+  "suggested_passage_id": "mobile_version_support"
+ },
+ "dev_044": {
+  "query": "What are the different role permissions?",
+  "gold_passage_ids": [
+   "team_role_permissions"
+  ],
+  "suggested_passage_id": "team_role_permissions"
+ },
+ "dev_045": {
+  "query": "How do I upgrade my subscription plan?",
+  "gold_passage_ids": [
+   "bill_upgrade_plan"
+  ],
+  "suggested_passage_id": "bill_upgrade_plan"
+ },
+ "dev_046": {
+  "query": "How do I manage push notification settings on mobile?",
+  "gold_passage_ids": [
+   "mobile_push_settings"
+  ],
+  "suggested_passage_id": "mobile_push_settings"
+ },
+ "dev_047": {
+  "query": "If I upgrade to a higher subscription plan, does my API rate limit increase along with it?",
+  "gold_passage_ids": [
+   "bill_upgrade_plan",
+   "api_rate_limits"
+  ],
+  "suggested_passage_id": "bill_upgrade_plan"
+ },
+ "dev_048": {
+  "query": "How do I export my data to CSV?",
+  "gold_passage_ids": [
+   "export_csv"
+  ],
+  "suggested_passage_id": "export_csv"
+ },
+ "dev_049": {
+  "query": "Could an IP allowlist restriction be the reason a teammate keeps getting locked out remotely?",
+  "gold_passage_ids": [
+   "acct_lockout",
+   "sec_ip_allowlist"
+  ],
+  "suggested_passage_id": "acct_lockout"
+ },
+ "dev_050": {
+  "query": "What are the API rate limits?",
+  "gold_passage_ids": [
+   "api_rate_limits"
+  ],
+  "suggested_passage_id": "api_rate_limits"
+ },
+ "dev_051": {
+  "query": "How do I set up two-factor authentication?",
+  "gold_passage_ids": [
+   "acct_2fa_setup"
+  ],
+  "suggested_passage_id": "acct_2fa_setup"
+ },
+ "dev_052": {
+  "query": "How do I update my payment method?",
+  "gold_passage_ids": [
+   "bill_payment_method"
+  ],
+  "suggested_passage_id": "bill_payment_method"
+ },
+ "dev_053": {
+  "query": "How do I invite team members?",
+  "gold_passage_ids": [
+   "team_invite_members"
+  ],
+  "suggested_passage_id": "team_invite_members"
+ }
+}

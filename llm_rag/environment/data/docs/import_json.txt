@@ -1,0 +1,3 @@
+Importing Data From JSON
+
+You can bring in external data using a JSON file matching our documented schema. Go to Settings, then 'Import', then upload the file. The importer validates the structure first and reports any rows it couldn't parse, without importing the rest until those rows are fixed or skipped.

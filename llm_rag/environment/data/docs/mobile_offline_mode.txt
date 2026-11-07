@@ -1,0 +1,3 @@
+Using Offline Mode on Mobile
+
+The mobile app caches recently viewed content for offline access, and queues any changes you make until a connection returns. Enable it from the mobile Settings tab, then 'Offline Access'. Only content you've opened recently is available offline -- older, unopened content is not cached.

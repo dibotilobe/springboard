@@ -1,0 +1,3 @@
+Downloading Past Invoices
+
+All past invoices are available under Billing, then 'Invoice History'. Each invoice can be downloaded as a PDF, and includes your billing address, plan details, and payment method used. Invoices are generated automatically on your renewal date each cycle and typically appear within a few minutes of the charge processing.

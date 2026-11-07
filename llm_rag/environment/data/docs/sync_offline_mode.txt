@@ -1,0 +1,3 @@
+Working in Offline Mode
+
+Offline mode lets you keep working without an internet connection; changes are queued locally and sync automatically once you're back online. Enable it from Settings, then 'Offline Mode'. Note that offline changes are stored only on the device that made them until the next successful sync.

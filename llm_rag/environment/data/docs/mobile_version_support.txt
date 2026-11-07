@@ -1,0 +1,3 @@
+Supported Mobile App Versions
+
+We support the current and two previous major mobile app versions; older versions may lose access to new features or stop syncing correctly. The app checks for updates automatically and prompts you when your installed version is nearing the end of its support window.

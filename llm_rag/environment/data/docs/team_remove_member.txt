@@ -1,0 +1,3 @@
+Removing a Team Member
+
+An Admin can remove someone from the workspace under Team, by selecting the member and choosing 'Remove'. Removal is immediate and revokes their access right away, but any content they created stays in the workspace and is reassigned to the workspace owner.

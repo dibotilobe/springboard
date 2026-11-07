@@ -1,0 +1,3 @@
+Resolving Sync Conflicts
+
+A sync conflict happens when the same item is edited on two devices before either change syncs. When this occurs, both versions are kept and shown side by side so you can choose which to keep, or merge them manually. Conflicted items are flagged with a small warning icon until you resolve them.

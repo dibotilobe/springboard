@@ -1,0 +1,3 @@
+API Rate Limits
+
+API requests are limited to 600 requests per minute per key by default. Exceeding the limit returns a 429 status with a Retry-After header indicating how long to wait. Higher limits are available on request for verified integrations with sustained legitimate traffic needs.

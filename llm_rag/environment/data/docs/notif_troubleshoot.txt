@@ -1,0 +1,3 @@
+Fixing Notifications That Aren't Arriving
+
+If notifications stop arriving, first confirm they're still enabled under Settings, then 'Notifications', since an app update can occasionally reset preferences. Next, check your device's own system-level notification permissions, which can independently block alerts even when they're enabled inside the app.

@@ -1,0 +1,3 @@
+Downgrading Your Subscription Plan
+
+You can move to a lower tier from Billing, then 'Change Plan'. Downgrades take effect at the start of your next billing cycle rather than immediately, so you keep your current tier's features until then. If your usage currently exceeds the lower tier's limits, you'll be asked to reduce usage before the downgrade can be scheduled.

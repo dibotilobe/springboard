@@ -1,0 +1,3 @@
+Muting Notifications Temporarily
+
+To pause all alerts for a while, use 'Mute Notifications' under Settings, then 'Notifications', and choose a duration such as one hour, until tomorrow, or indefinitely. Muting doesn't affect the email digest, which continues on its normal schedule even while alerts are muted.

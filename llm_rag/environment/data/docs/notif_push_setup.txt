@@ -1,0 +1,3 @@
+Setting Up Push Notifications
+
+Push notifications alert you on your phone or desktop in real time. Enable them from Settings, then 'Notifications', then 'Push', and grant the permission prompt from your operating system if asked. You can choose which event types trigger a push alert versus staying silent.

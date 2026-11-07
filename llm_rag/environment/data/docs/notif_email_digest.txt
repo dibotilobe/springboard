@@ -1,0 +1,3 @@
+Configuring the Email Digest
+
+The email digest sends a daily or weekly summary of activity instead of individual emails for every event. Configure the frequency under Settings, then 'Notifications', then 'Email Digest'. Turning the digest on automatically mutes individual real-time emails for the same events it summarizes.

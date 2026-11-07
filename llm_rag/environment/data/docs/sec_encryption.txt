@@ -1,0 +1,3 @@
+How Data Encryption Works
+
+All data is encrypted in transit using TLS and at rest using AES-256. Encryption keys are managed internally and rotated on a regular schedule; customers don't need to manage keys themselves. Backups are encrypted using the same standard as primary storage.

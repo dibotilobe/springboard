@@ -1,0 +1,3 @@
+Managing Push Notification Settings on Mobile
+
+Mobile push preferences are separate from desktop notification settings and are managed from the mobile Settings tab, then 'Notifications'. You can silence push alerts on mobile while keeping email and desktop notifications active, or vice versa, independently of each other.

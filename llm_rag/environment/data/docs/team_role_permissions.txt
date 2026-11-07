@@ -1,0 +1,3 @@
+Understanding Role Permissions
+
+There are three roles: Viewer, Editor, and Admin. Viewers can see content but not change it. Editors can create and modify content but can't manage billing or members. Admins have full control, including billing, member management, and workspace-wide settings. Roles can be changed at any time from the Team page.

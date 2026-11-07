@@ -1,0 +1,3 @@
+Setting Up Two-Factor Authentication
+
+Two-factor authentication adds a second step to sign-in using a code from an authenticator app. Go to Account Settings, then Security, then enable 'Two-Factor Authentication'. Scan the QR code with an app like Google Authenticator or Authy, then enter the six-digit code it shows to confirm setup. Save the backup codes somewhere safe in case you lose access to your authenticator app.

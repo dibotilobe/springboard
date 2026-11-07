@@ -1,0 +1,3 @@
+Generating an API Key
+
+API keys are created under Settings, then 'Developer', then 'API Keys', then 'Generate New Key'. Each key can be scoped to read-only or read-write access. Keys are shown only once at creation time, so store them securely -- they can't be viewed again, only revoked and replaced.

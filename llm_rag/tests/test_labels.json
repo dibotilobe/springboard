@@ -1,0 +1,182 @@
+{
+ "eval_000": [
+  "team_role_permissions",
+  "api_key_generation"
+ ],
+ "eval_001": [
+  "export_bulk_limits"
+ ],
+ "eval_002": [
+  "team_remove_member",
+  "sec_audit_logs"
+ ],
+ "eval_003": [
+  "bill_payment_method"
+ ],
+ "eval_004": [
+  "acct_lockout"
+ ],
+ "eval_005": [
+  "api_key_generation",
+  "sec_encryption"
+ ],
+ "eval_006": [
+  "notif_mute"
+ ],
+ "eval_007": [
+  "acct_password_reset",
+  "mobile_login_issues"
+ ],
+ "eval_008": [
+  "acct_sso_login",
+  "team_invite_members"
+ ],
+ "eval_009": [
+  "export_scheduled"
+ ],
+ "eval_010": [
+  "sync_slow_troubleshoot"
+ ],
+ "eval_011": [
+  "bill_downgrade_plan"
+ ],
+ "eval_012": [
+  "team_transfer_ownership",
+  "bill_payment_method"
+ ],
+ "eval_013": [
+  "acct_sso_login"
+ ],
+ "eval_014": [
+  "mobile_version_support",
+  "sync_offline_mode"
+ ],
+ "eval_015": [
+  "acct_2fa_setup",
+  "team_invite_members"
+ ],
+ "eval_016": [
+  "export_csv"
+ ],
+ "eval_017": [
+  "mobile_offline_mode",
+  "sync_conflict_resolution"
+ ],
+ "eval_018": [
+  "bill_upgrade_plan"
+ ],
+ "eval_019": [
+  "api_integrations_list",
+  "sec_audit_logs"
+ ],
+ "eval_020": [
+  "bill_upgrade_plan",
+  "api_rate_limits"
+ ],
+ "eval_021": [
+  "notif_push_setup"
+ ],
+ "eval_022": [
+  "api_key_generation"
+ ],
+ "eval_023": [
+  "notif_email_digest"
+ ],
+ "eval_024": [
+  "mobile_offline_mode"
+ ],
+ "eval_025": [
+  "import_json"
+ ],
+ "eval_026": [
+  "sec_gdpr_deletion"
+ ],
+ "eval_027": [
+  "api_integrations_list"
+ ],
+ "eval_028": [
+  "team_role_permissions"
+ ],
+ "eval_029": [
+  "notif_email_digest",
+  "api_webhook_setup"
+ ],
+ "eval_030": [
+  "team_remove_member"
+ ],
+ "eval_031": [
+  "bill_downgrade_plan",
+  "export_scheduled"
+ ],
+ "eval_032": [
+  "sync_slow_troubleshoot",
+  "mobile_version_support"
+ ],
+ "eval_033": [
+  "acct_2fa_setup"
+ ],
+ "eval_034": [
+  "sec_ip_allowlist"
+ ],
+ "eval_035": [
+  "export_csv",
+  "notif_push_setup"
+ ],
+ "eval_036": [
+  "bill_upgrade_plan"
+ ],
+ "eval_037": [
+  "sync_offline_mode"
+ ],
+ "eval_038": [
+  "sync_conflict_resolution"
+ ],
+ "eval_039": [
+  "sync_manual_trigger"
+ ],
+ "eval_040": [
+  "notif_troubleshoot",
+  "mobile_push_settings"
+ ],
+ "eval_041": [
+  "api_rate_limits"
+ ],
+ "eval_042": [
+  "notif_troubleshoot"
+ ],
+ "eval_043": [
+  "acct_lockout",
+  "sec_ip_allowlist"
+ ],
+ "eval_044": [
+  "mobile_login_issues"
+ ],
+ "eval_045": [
+  "mobile_login_issues"
+ ],
+ "eval_046": [
+  "mobile_version_support"
+ ],
+ "eval_047": [
+  "api_webhook_setup"
+ ],
+ "eval_048": [
+  "sec_encryption"
+ ],
+ "eval_049": [
+  "acct_password_reset"
+ ],
+ "eval_050": [
+  "sec_encryption"
+ ],
+ "eval_051": [
+  "sec_gdpr_deletion",
+  "bill_invoice_download"
+ ],
+ "eval_052": [
+  "team_transfer_ownership"
+ ],
+ "eval_053": [
+  "team_invite_members"
+ ]
+}

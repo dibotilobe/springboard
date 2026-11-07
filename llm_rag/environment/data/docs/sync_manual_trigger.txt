@@ -1,0 +1,3 @@
+Manually Triggering a Sync
+
+You normally don't need to sync manually, since it happens automatically in the background, but you can force an immediate sync from the Sync Status panel by tapping 'Sync Now'. This is useful right before going offline, to make sure your latest changes are saved to the server first.

@@ -1,0 +1,3 @@
+Upgrading Your Subscription Plan
+
+To move to a higher subscription tier, go to Billing, then 'Change Plan', and select the new plan. The upgrade takes effect immediately and you're charged a prorated amount for the remainder of the current billing cycle. Any usage limits raise right away, so there's no need to wait for the next invoice to start using the higher tier's features.

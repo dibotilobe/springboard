@@ -1,0 +1,3 @@
+Fixing Mobile Login Issues
+
+If the mobile app won't accept your credentials, first confirm you're using the same email as your web account, since mobile and web share one account system. Clearing the app's cache or reinstalling resolves most stuck login screens caused by an outdated cached session.

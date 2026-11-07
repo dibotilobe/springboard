@@ -1,0 +1,3 @@
+Updating Your Payment Method
+
+To change the card or bank account on file, go to Billing, then 'Payment Methods', then 'Add New'. Once a new method is verified, you can set it as default, and it will be charged on your next renewal date. Old payment methods are automatically removed after being unused for twelve months.

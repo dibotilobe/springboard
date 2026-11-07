@@ -1,0 +1,3 @@
+Viewing Audit Logs
+
+Admins can review a full history of workspace actions -- logins, permission changes, exports, and more -- under Settings, then 'Audit Logs'. Logs are retained for 90 days by default and can be exported for longer-term compliance recordkeeping on paid tiers.

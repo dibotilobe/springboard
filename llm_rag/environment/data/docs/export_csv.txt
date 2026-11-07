@@ -1,0 +1,3 @@
+Exporting Data to CSV
+
+To export your data as a spreadsheet, go to the relevant list view and select 'Export', then choose CSV format. Large exports are processed in the background and emailed to you as a download link once ready, rather than downloading instantly, to avoid timing out on big datasets.

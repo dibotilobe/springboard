@@ -1,0 +1,3 @@
+Restricting Access With an IP Allowlist
+
+Admins can restrict sign-in to specific IP ranges under Settings, then 'Security', then 'IP Allowlist'. Requests from outside the allowlisted ranges are blocked at login, even with valid credentials, which is useful for limiting access to a corporate network or VPN.
